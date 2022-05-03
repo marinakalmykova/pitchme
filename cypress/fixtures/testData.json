@@ -1,0 +1,60 @@
+{
+  "role": {
+    "header": "Role you are looking for?",
+    "searchWord": "Manager",
+    "items": ["Commercial Manager", "Senior Product Manager"]
+  },
+  "area": {
+    "header": "Area of your interest?",
+    "searchWord": "Tech",
+    "items": ["Information Technology", "PropTech"]
+  },
+  "salary": {
+    "header": "What salary",
+    "value": "5000"
+  },
+  "location": {
+    "header": "Where do you want to work?",
+    "currentCountry": "Russia",
+    "searchWord": "Uni",
+    "items": ["United States", "United Kingdom"]
+  },
+
+  "about": {
+    "header": "A bit more about yourself",
+    "answers": ["Alone", "Composition", "Myself", "Plan ahead"]
+  },
+
+  "great": {
+    "header": "Yes, we've found a lot of suitable positions!",
+    "buttonText": "Let's do it!"
+  },
+
+  "cv": {
+    "header": "Speed up the process with a CV file",
+    "buttonText": "Add data manually"
+  },
+
+  "experience": {
+    "header": "Your experience helps us to introduce you to jobs of your interest",
+    "buttonText": "Add experience",
+    "addMoreButton": "+ Add more experience"
+  },
+
+  "education": {
+    "header": "Helps employers to understand your background",
+    "buttonText": "Add education",
+    "degree": "Master's degree",
+    "fieldOfStudy": "Management",
+    "addMoreButton": "+ Add more education"
+  },
+
+  "skills": {
+    "header": "Choose your strongest skills",
+    "items": ["Content writing", "Communication"]
+  },
+
+  "links": {
+    "header": "Boost your profile with professional resources"
+  }
+}

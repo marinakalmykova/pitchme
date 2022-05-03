@@ -1,0 +1,24 @@
+{
+  "name": "pitchme",
+  "description": "E2E tests for onboarding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome --config video=false"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.2.0",
+    "cypress": "^9.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinakalmykova/pitchme.git"
+  },
+  "author": "Marina Kalmykova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinakalmykova/pitchme/issues"
+  },
+  "homepage": "https://github.com/marinakalmykova/pitchme#readme"
+}

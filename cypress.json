@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://pitchme.co",
+  "integrationFolder": "cypress",
+  "fixturesFolder": "cypress/fixtures",
+  "supportFile": "cypress/support/index.js",
+  "env": {
+    "RETRIES": 1
+  },
+  "viewportWidth": 1440,
+  "viewportHeight": 800
+}
