@@ -1,6 +1,6 @@
 import { faker } from '@faker-js/faker';
 
-describe('', () => {
+describe('Checking the main positive scenario', () => {
    const firstName = faker.name.firstName();
    const lastName = faker.name.lastName();
    const email = faker.internet.exampleEmail(firstName, lastName);
