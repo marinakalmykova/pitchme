@@ -16,6 +16,7 @@ Several simplifications have been made:
 
 Some implementation specifics:
 - test data is stored in testData.json file and can be changed
+- also some of the test data generated via faker tool
 - there are two custom commands were created to avoid copy-paste and to follow DRY concept.
 
 ## How to run locally
